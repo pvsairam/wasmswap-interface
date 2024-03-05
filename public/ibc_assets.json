@@ -2,6 +2,19 @@
   "tokens": [
     {
       "id": "cosmos",
+      "name": "osmo",
+      "symbol": "osmo",
+      "chain_id": "osmo-test-5",
+      "rpc": "https://rpc.osmotest5.osmosis.zone:433",
+      "denom": "uosmo",
+      "decimals": 6,
+      "channel": "channel-5892",
+      "juno_channel": "",
+      "juno_denom": "",
+      "logoURI": "https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=014"
+    },
+    {
+      "id": "cosmos",
       "name": "Atom",
       "symbol": "ATOM",
       "chain_id": "cosmoshub-4",
